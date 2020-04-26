@@ -13,7 +13,7 @@
 yarn
 
 #start application at http://localhost:3333
-yarn dev
+yarn start
 ```
 
 ### Environment
